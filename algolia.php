@@ -4,7 +4,7 @@
  * Plugin URI:        https://github.com/WebDevStudios/wp-search-with-algolia
  * Description:       Integrate the powerful Algolia search service with WordPress
  * Version:           2.12.0
- * Requires at least: 6.7.2
+ * Requires at least: 6.2.9
  * Requires PHP:      7.4
  * Author:            WebDevStudios
  * Author URI:        https://webdevstudios.com
